@@ -22,7 +22,7 @@
 #### Objectivos:
 
 
-Nesta segunda parte do segundo laboratório pretendemos introduzir o desenvolvimento de aplicações Android usando **Android Studio Panda 3 (2025.3.3 Patch 1)** e o **Kotlin**. No fim deste laboratório o estudante deve ser capaz de:
+Nesta segunda parte do segundo laboratório pretendemos introduzir o desenvolvimento de aplicações Android usando **Android Studio** e o **Kotlin**. No fim deste laboratório o estudante deve ser capaz de:
 
 
 * Entender a estrutura de um projecto Android usando o Kotlin.
