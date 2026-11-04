@@ -249,7 +249,7 @@ Use `remember` para armazenar e actualizar o texto introduzido pelo utilizador e
       OutlinedTextField(
           value = text,
           onValueChange = { text = it },
-          label = { Text("Digite sua mensagem") },
+          label = { Text("Type your message") },
           modifier = Modifier.fillMaxWidth()
       )
 
@@ -265,7 +265,7 @@ Use `remember` para armazenar e actualizar o texto introduzido pelo utilizador e
               context.startActivity(intent)
           }
       ) {
-          Text("Enviar")
+          Text("Send")
       }
   }
 ```
